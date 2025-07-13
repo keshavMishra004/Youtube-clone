@@ -7,8 +7,8 @@ Media (videos, thumbnails, profile pictures) is managed using *Cloudinary*.
 
 ## 🔗 Live Demo & GitHub
 
-- **Live Demo**: []()
-- **GitHub Repo**: []()
+- **Live Demo**: [https://drive.google.com/file/d/1a9MBDCYlqpXXt9kTlolct9Vrbjc9rSV1/view?usp=drive_link]()
+- **GitHub Repo**: [https://github.com/keshavMishra004/Youtube-clone]()
 
 ---
 
