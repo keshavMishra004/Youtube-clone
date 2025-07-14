@@ -1,4 +1,4 @@
-import{j as t,L as p,u as w,a as c,r as d,f as b,b as j}from"./index-CfcQI7xD.js";import{f as N,h as y}from"./formatDuration-CfKS_jPf.js";const v=["All","Music","Gaming","News","Sports","Education","Entertainment","Movies","Web Development"];function k({selectedFilter:e,onSelectFilter:l}){return t.jsx("div",{className:"flex gap-6 overflow-x-auto py-3 px-4 scrollbar-hide",children:v.map(a=>{const n=e===a;return t.jsx("button",{onClick:()=>l(a),className:`
+import{j as t,L as p,u as w,a as c,r as d,f as b,b as j}from"./index-BEn1x6XK.js";import{f as N,h as y}from"./formatDuration-CfKS_jPf.js";const v=["All","Music","Gaming","News","Sports","Education","Entertainment","Movies","Web Development"];function k({selectedFilter:e,onSelectFilter:l}){return t.jsx("div",{className:"flex gap-6 overflow-x-auto py-3 px-4 scrollbar-hide",children:v.map(a=>{const n=e===a;return t.jsx("button",{onClick:()=>l(a),className:`
               px-6 py-2 text-base font-semibold rounded-full whitespace-nowrap
               transition-colors duration-300 shadow-sm
               ${n?"bg-black text-white shadow-md":"bg-gray-200 text-gray-700 hover:bg-gray-300 hover:text-black"}
